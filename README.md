@@ -1,7 +1,7 @@
 # Tu-Color
 ### Java Web / Web Application
 ##  Proyecto SpringMVC , "Elige un Color"
-![Tu Color - Internet Explorer 20_9_2021 15_25_00](https://user-images.githubusercontent.com/88462536/134054860-21968f0e-e326-44c7-8714-109f71378177.png)
+![Tu Color - Internet Explorer 20_9_2021 16_08_27](https://user-images.githubusercontent.com/88462536/134060492-88e2c101-45ec-4ce1-9e21-45558bbd263b.png)
 ![Tu Color - Internet Explorer 20_9_2021 15_25_31](https://user-images.githubusercontent.com/88462536/134054886-700c0a41-af83-4479-a7f1-819172ee1a5f.png)
 ![Tu Color - Internet Explorer 20_9_2021 15_25_48](https://user-images.githubusercontent.com/88462536/134054905-9d7e57c7-37ae-466a-b539-5f379736153f.png)
 ![Tu Color - Internet Explorer 20_9_2021 15_25_57](https://user-images.githubusercontent.com/88462536/134054924-2f40f732-5cd8-4fae-993e-49780c37aab7.png)
